@@ -21,7 +21,6 @@ git clone https://github.com/ton-utilisateur/keras-tensorflow-deep-learning.git
 cd keras-tensorflow-deep-learning
 ```
 2.**Installez les Dépendances** Assurez-vous d'avoir Python installé, puis installez les dépendances nécessaires en utilisant `pip`.
-
 3. **Lancez Jupyter Notebook**
 
 Ouvrez le fichier `LTensorKeras.ipynb` dans Jupyter Notebook pour accéder aux explications et aux exemples.
